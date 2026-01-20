@@ -1,5 +1,5 @@
 'use strict';
-const guardian = require('../dist').default;
+const guardian = require('../dist');
 let api = new guardian('test_api_key', false);
 
 
